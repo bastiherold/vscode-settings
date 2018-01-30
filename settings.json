@@ -1,0 +1,50 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "vsicons.dontShowNewVersionMessage": true,
+    "material-icon-theme.showUpdateMessage": false,
+    "editor.tabSize": 2,
+    "editor.lineHeight": 26,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 1,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.idea": true
+    },
+    "sublimeTextKeymap.promptV3Features": true,
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.colorTheme": "Material Theme",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Darker"
+    },
+    "editor.smoothScrolling": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/vendor": true
+    },
+    "git.autofetch": true,
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+    "emmet.triggerExpansionOnTab": true, // enable tab to expanse emmet tags
+    "blade.format.enable": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#135564",
+    },
+    "php.validate.run": "onType",
+    "editor.snippetSuggestions": "top",
+    "editor.colorDecorators": false
+}
